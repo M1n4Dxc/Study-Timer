@@ -1,2 +1,2 @@
 # Study-Timer
-An aggressive study management app that locks your computer to make you focus
+An aggressive study management app written in Python that locks your computer to make you focus.
